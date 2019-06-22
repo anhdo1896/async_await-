@@ -1,0 +1,17 @@
+{
+  "name": "bai03",
+  "version": "1.0.0",
+  "description": "async",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app"
+  },
+  "author": "anhdo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "promise-mysql": "^4.0.4"
+  }
+}
